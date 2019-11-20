@@ -12,8 +12,8 @@ A repository of token logos using prochain-substrate
 ```
 {
   "name":"",         // This is the unique name of your token, it should be case insensitive
-  "symbol":"",       // The unique symbol of your token
-  "description":"",  // Short description of your token
+  "symbol":"",       // The unique symbol of your group
+  "description":"",  // Short description of your group
   "url":"",          // The URL to your token website, or it's landing page
   "hasimage":"1",    // Adding this specifies that you have added a logo to the /logos/ directory.
 }
