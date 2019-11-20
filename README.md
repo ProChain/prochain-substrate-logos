@@ -12,6 +12,7 @@ A repository of token logos using prochain-substrate
 ```
 {
   "name":"",         // This is the unique name of your token, it should be case insensitive
+  "symbol":"",       // The unique symbol of your token
   "description":"",  // Short description of your token
   "url":"",          // The URL to your token website, or it's landing page
   "hasimage":"1",    // Adding this specifies that you have added a logo to the /logos/ directory.
@@ -30,6 +31,7 @@ A repository of token logos using prochain-substrate
 ```
 {
   "name":"",         // 这是token的唯一不重复名称，大小写不敏感
+  "symbol":"",       // token的唯一symbol
   "description":"",  // 对token的简要描述
   "url":"",          // 指向token网站的URL，或指向落地页
   "hasimage":"1",    // 填入1表明已经将图片加入了/logos/文件夹
