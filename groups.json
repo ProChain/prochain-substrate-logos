@@ -6,6 +6,27 @@
       			"description": "Chinese First Precision Advertising Blockchain Based On BigData.",
       			"url": "https://chain.pro",
       			"hasimage": "1"
+    		},
+    		{
+      			"name": "Bitcoin",
+      			"symbol": "BTC",
+      			"description": "Bitcoin is an innovative payment network and a new kind of money.",
+      			"url": "https://bitcoincore.org/",
+      			"hasimage": "1"
+    		},
+    		{
+      			"name": "Ethereum",
+      			"symbol": "ETH",
+      			"description": "Ethereum is a global, decentralized platform for money and new kinds of applications.",
+      			"url": "https://ethereum.org/",
+      			"hasimage": "1"
+    		},
+    		{
+      			"name": "EOSIO",
+      			"symbol": "EOS",
+      			"description": "EOSIO is a next-generation, open-source blockchain protocol with industry-leading transaction speed and flexible utility.",
+      			"url": "https://eos.io/",
+      			"hasimage": "1"
     		}
 	]
 }
